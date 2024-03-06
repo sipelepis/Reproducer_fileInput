@@ -1,0 +1,7 @@
+{
+  "name": "reproducer_fileInput",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
