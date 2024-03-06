@@ -1,4 +1,10 @@
 <div id="container">
-  <strong>{{ name }}</strong>
-  <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+  <p class="font-bold text-2xl">Images (png, jpeg, jpg)</p>
+  <input type='file' accept="image/png, image/jpeg" (change)="onUploadChange()"/>
+  <p class="font-bold text-2xl">Pdf</p>
+  <input type='file' accept="application/pdf" (change)="onUploadChange()"/>
+  <p class="font-bold text-2xl">Videos (mp4)</p>
+  <input type='file' accept="video/mp4" (change)="onUploadChange()"/>
+  <p class="font-bold text-2xl">All  (png, jpeg, pdf, jpg)</p>
+  <input type='file' accept="image/png, image/jpeg, application/pdf, video/mp4" (change)="onUploadChange()"/>
 </div>

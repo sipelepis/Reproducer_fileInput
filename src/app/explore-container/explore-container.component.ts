@@ -8,5 +8,8 @@ import { Component, Input } from '@angular/core';
 export class ExploreContainerComponent {
 
   @Input() name?: string;
+  public onUploadChange(){
 
+    console.log('onUploadChange');
+  }
 }
