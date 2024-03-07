@@ -11,6 +11,11 @@ const config: CapacitorConfig = {
   server: {
     androidScheme: 'https'
   },
+  plugins: {
+    PrivacyScreen: {
+      enable: true,
+    },
+  },
 };
 
 export default config;
