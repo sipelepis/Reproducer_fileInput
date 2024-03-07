@@ -106,11 +106,11 @@
       },
       {
         "file": "angular.json",
-        "hash": "8308502821971415850"
+        "hash": "14983276163348353732"
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "7559482605359566932"
+        "hash": "1818362844129342799"
       },
       {
         "file": "ionic.config.json",
@@ -122,11 +122,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "1424012947685974035"
+        "hash": "1116126121756742029"
       },
       {
         "file": "package.json",
-        "hash": "9677476473192298207"
+        "hash": "9876323691925762133"
       },
       {
         "file": "src/app/app-routing.module.ts",
