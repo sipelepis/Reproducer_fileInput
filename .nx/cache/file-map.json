@@ -10,6 +10,10 @@
     "@angular/platform-browser": "^17.0.2",
     "@angular/platform-browser-dynamic": "^17.0.2",
     "@angular/router": "^17.0.2",
+    "@awesome-cordova-plugins/photo-viewer": "^6.6.0",
+    "@capacitor-community/file-opener": "^1.0.5",
+    "@capacitor-community/privacy-screen": "^4.2.3",
+    "@capacitor-community/sqlite": "^5.6.1",
     "@capacitor/android": "^5.7.1",
     "@capacitor/app": "^5.0.7",
     "@capacitor/app-launcher": "^5.0.7",
@@ -23,10 +27,21 @@
     "@capacitor/preferences": "^5.0.7",
     "@capacitor/share": "^5.0.7",
     "@capacitor/status-bar": "^5.0.7",
-    "@ionic/angular": "^7.0.0",
+    "@ionic/angular": "^6.1.9",
+    "@ionic/pwa-elements": "^3.2.2",
+    "capacitor-blob-writer": "^1.1.10",
+    "chart.js": "^4.4.1",
+    "date-fns": "^2.30.0",
+    "dexie": "^3.2.3",
+    "file-saver": "^2.0.5",
+    "firebase": "^9.17.2",
+    "hammerjs": "^2.0.8",
     "ionicons": "^7.0.0",
+    "jeep-sqlite": "^2.3.3",
+    "ng2-pdfjs-viewer": "^17.0.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "uuid": "^9.0.1",
     "zone.js": "~0.14.2",
     "@angular-devkit/build-angular": "^17.0.0",
     "@angular-eslint/builder": "^17.0.0",
@@ -94,7 +109,7 @@
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "8562136755411481596"
+        "hash": "7559482605359566932"
       },
       {
         "file": "ionic.config.json",
@@ -106,11 +121,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "14421446388301643155"
+        "hash": "1424012947685974035"
       },
       {
         "file": "package.json",
-        "hash": "3101642587498240311"
+        "hash": "9677476473192298207"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -138,7 +153,7 @@
       },
       {
         "file": "src/app/explore-container/explore-container.component.html",
-        "hash": "10574455846506954855"
+        "hash": "7071412077785182550"
       },
       {
         "file": "src/app/explore-container/explore-container.component.scss",
@@ -150,7 +165,7 @@
       },
       {
         "file": "src/app/explore-container/explore-container.component.ts",
-        "hash": "5919589360752874304"
+        "hash": "12791400691540375746"
       },
       {
         "file": "src/app/explore-container/explore-container.module.ts",
@@ -166,7 +181,7 @@
       },
       {
         "file": "src/app/tab1/tab1.page.html",
-        "hash": "13207509910740934786"
+        "hash": "1548371657264286046"
       },
       {
         "file": "src/app/tab1/tab1.page.scss",
@@ -178,7 +193,7 @@
       },
       {
         "file": "src/app/tab1/tab1.page.ts",
-        "hash": "9117558980506864833"
+        "hash": "5074682588053284093"
       },
       {
         "file": "src/app/tab2/tab2-routing.module.ts",
@@ -270,7 +285,7 @@
       },
       {
         "file": "src/global.scss",
-        "hash": "16777120732726033300"
+        "hash": "5343872436777652170"
       },
       {
         "file": "src/index.html",
@@ -295,6 +310,10 @@
       {
         "file": "src/zone-flags.ts",
         "hash": "3323586086306676158"
+      },
+      {
+        "file": "tailwind.config.js",
+        "hash": "7601031578553540284"
       },
       {
         "file": "tsconfig.app.json",
