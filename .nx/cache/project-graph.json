@@ -1198,24 +1198,6 @@
         "hash": "13814375190842145937"
       }
     },
-    "npm:@awesome-cordova-plugins/core": {
-      "type": "npm",
-      "name": "npm:@awesome-cordova-plugins/core",
-      "data": {
-        "version": "6.6.0",
-        "packageName": "@awesome-cordova-plugins/core",
-        "hash": "3437335299829372859"
-      }
-    },
-    "npm:@awesome-cordova-plugins/photo-viewer": {
-      "type": "npm",
-      "name": "npm:@awesome-cordova-plugins/photo-viewer",
-      "data": {
-        "version": "6.6.0",
-        "packageName": "@awesome-cordova-plugins/photo-viewer",
-        "hash": "17848176758518462178"
-      }
-    },
     "npm:@babel/code-frame": {
       "type": "npm",
       "name": "npm:@babel/code-frame",
@@ -2258,15 +2240,6 @@
         "version": "7.24.0",
         "packageName": "@babel/types",
         "hash": "1543197292342347794"
-      }
-    },
-    "npm:@capacitor-community/file-opener": {
-      "type": "npm",
-      "name": "npm:@capacitor-community/file-opener",
-      "data": {
-        "version": "1.0.5",
-        "packageName": "@capacitor-community/file-opener",
-        "hash": "4353897827860128278"
       }
     },
     "npm:@capacitor/android": {
@@ -4157,15 +4130,6 @@
         "version": "0.4.1",
         "packageName": "@types/cookie",
         "hash": "17185000776784716885"
-      }
-    },
-    "npm:@types/cordova": {
-      "type": "npm",
-      "name": "npm:@types/cordova",
-      "data": {
-        "version": "11.0.3",
-        "packageName": "@types/cordova",
-        "hash": "sha512-kyuRQ40/NWQVhqGIHq78Ehu2Bf9Mlg0LhmSmis6ZFJK7z933FRfYi8tHe/k/0fB+PGfCf95rJC6TO7dopaFvAg=="
       }
     },
     "npm:@types/cors": {
@@ -15800,25 +15764,6 @@
         "type": "static"
       }
     ],
-    "npm:@awesome-cordova-plugins/core": [
-      {
-        "source": "npm:@awesome-cordova-plugins/core",
-        "target": "npm:rxjs",
-        "type": "static"
-      }
-    ],
-    "npm:@awesome-cordova-plugins/photo-viewer": [
-      {
-        "source": "npm:@awesome-cordova-plugins/photo-viewer",
-        "target": "npm:@awesome-cordova-plugins/core",
-        "type": "static"
-      },
-      {
-        "source": "npm:@awesome-cordova-plugins/photo-viewer",
-        "target": "npm:rxjs",
-        "type": "static"
-      }
-    ],
     "npm:@babel/code-frame": [
       {
         "source": "npm:@babel/code-frame",
@@ -17936,13 +17881,6 @@
       {
         "source": "npm:@babel/types",
         "target": "npm:to-fast-properties",
-        "type": "static"
-      }
-    ],
-    "npm:@capacitor-community/file-opener": [
-      {
-        "source": "npm:@capacitor-community/file-opener",
-        "target": "npm:@capacitor/core",
         "type": "static"
       }
     ],
