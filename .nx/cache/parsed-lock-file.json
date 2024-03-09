@@ -3402,15 +3402,6 @@
         "hash": "15534861017157242447"
       }
     },
-    "npm:@kurkle/color": {
-      "type": "npm",
-      "name": "npm:@kurkle/color",
-      "data": {
-        "version": "0.3.2",
-        "packageName": "@kurkle/color",
-        "hash": "5654055324054829682"
-      }
-    },
     "npm:@leichtgewicht/ip-codec": {
       "type": "npm",
       "name": "npm:@leichtgewicht/ip-codec",
@@ -5643,15 +5634,6 @@
         "hash": "3026377758751268250"
       }
     },
-    "npm:chart.js": {
-      "type": "npm",
-      "name": "npm:chart.js",
-      "data": {
-        "version": "4.4.2",
-        "packageName": "chart.js",
-        "hash": "17877375861234916892"
-      }
-    },
     "npm:chevrotain": {
       "type": "npm",
       "name": "npm:chevrotain",
@@ -6327,15 +6309,6 @@
         "hash": "9677783131494935976"
       }
     },
-    "npm:date-fns": {
-      "type": "npm",
-      "name": "npm:date-fns",
-      "data": {
-        "version": "2.30.0",
-        "packageName": "date-fns",
-        "hash": "sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw=="
-      }
-    },
     "npm:date-format": {
       "type": "npm",
       "name": "npm:date-format",
@@ -6568,15 +6541,6 @@
         "version": "2.1.0",
         "packageName": "detect-node",
         "hash": "4566974365802728538"
-      }
-    },
-    "npm:dexie": {
-      "type": "npm",
-      "name": "npm:dexie",
-      "data": {
-        "version": "3.2.6",
-        "packageName": "dexie",
-        "hash": "10471267599759534887"
       }
     },
     "npm:di": {
@@ -8190,15 +8154,6 @@
         "hash": "4810337297576852551"
       }
     },
-    "npm:file-saver": {
-      "type": "npm",
-      "name": "npm:file-saver",
-      "data": {
-        "version": "2.0.5",
-        "packageName": "file-saver",
-        "hash": "16444057697218060669"
-      }
-    },
     "npm:filelist": {
       "type": "npm",
       "name": "npm:filelist",
@@ -9790,15 +9745,6 @@
         "version": "2.1.0",
         "packageName": "karma-jasmine-html-reporter",
         "hash": "589139484856279992"
-      }
-    },
-    "npm:karma-safari-launcher": {
-      "type": "npm",
-      "name": "npm:karma-safari-launcher",
-      "data": {
-        "version": "1.0.0",
-        "packageName": "karma-safari-launcher",
-        "hash": "7291770654539293425"
       }
     },
     "npm:karma-source-map-support": {
@@ -21865,11 +21811,6 @@
       "type": "static"
     },
     {
-      "source": "npm:chart.js",
-      "target": "npm:@kurkle/color",
-      "type": "static"
-    },
-    {
       "source": "npm:chevrotain",
       "target": "npm:regexp-to-ast",
       "type": "static"
@@ -22630,11 +22571,6 @@
       "type": "static"
     },
     {
-      "source": "npm:date-fns",
-      "target": "npm:@babel/runtime",
-      "type": "static"
-    },
-    {
       "source": "npm:debug",
       "target": "npm:ms",
       "type": "static"
@@ -22737,11 +22673,6 @@
     {
       "source": "npm:rimraf@3.0.2",
       "target": "npm:glob",
-      "type": "static"
-    },
-    {
-      "source": "npm:dexie",
-      "target": "npm:karma-safari-launcher",
       "type": "static"
     },
     {
@@ -25682,11 +25613,6 @@
     {
       "source": "npm:karma-jasmine-html-reporter",
       "target": "npm:karma-jasmine",
-      "type": "static"
-    },
-    {
-      "source": "npm:karma-safari-launcher",
-      "target": "npm:karma",
       "type": "static"
     },
     {
