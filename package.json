@@ -39,7 +39,7 @@
     "@capacitor/preferences": "^5.0.7",
     "@capacitor/share": "^5.0.7",
     "@capacitor/status-bar": "^5.0.7",
-    "@ionic/angular": "^6.1.9",
+    "@ionic/angular": "^7.7.4",
     "@ionic/pwa-elements": "^3.2.2",
     "capacitor-blob-writer": "^1.1.10",
     "chart.js": "^4.4.1",
