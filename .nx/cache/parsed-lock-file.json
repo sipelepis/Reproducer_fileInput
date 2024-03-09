@@ -3168,15 +3168,6 @@
         "hash": "sha512-zThio3ZfbTu+3eM6QBdyeEk5OBc7M0ApFwSlP/G7rrFVcTPm12FNvG9VPD+aN5NwnYy0EsV3hlMkxbawoqjVLw=="
       }
     },
-    "npm:@ionic/pwa-elements": {
-      "type": "npm",
-      "name": "npm:@ionic/pwa-elements",
-      "data": {
-        "version": "3.2.2",
-        "packageName": "@ionic/pwa-elements",
-        "hash": "8765079713081096875"
-      }
-    },
     "npm:@ionic/utils-array": {
       "type": "npm",
       "name": "npm:@ionic/utils-array",
@@ -5614,15 +5605,6 @@
         "version": "1.0.30001596",
         "packageName": "caniuse-lite",
         "hash": "11040548541924608487"
-      }
-    },
-    "npm:capacitor-blob-writer": {
-      "type": "npm",
-      "name": "npm:capacitor-blob-writer",
-      "data": {
-        "version": "1.1.15",
-        "packageName": "capacitor-blob-writer",
-        "hash": "2002724046695835415"
       }
     },
     "npm:chardet": {
@@ -21783,16 +21765,6 @@
     {
       "source": "npm:camelcase-keys",
       "target": "npm:quick-lru",
-      "type": "static"
-    },
-    {
-      "source": "npm:capacitor-blob-writer",
-      "target": "npm:@capacitor/core",
-      "type": "static"
-    },
-    {
-      "source": "npm:capacitor-blob-writer",
-      "target": "npm:@capacitor/filesystem",
       "type": "static"
     },
     {
