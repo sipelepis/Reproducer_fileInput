@@ -12484,15 +12484,6 @@
         "hash": "17623725961150612251"
       }
     },
-    "npm:uuid": {
-      "type": "npm",
-      "name": "npm:uuid",
-      "data": {
-        "version": "9.0.1",
-        "packageName": "uuid",
-        "hash": "17269348367601967726"
-      }
-    },
     "npm:uuid@7.0.3": {
       "type": "npm",
       "name": "npm:uuid@7.0.3",
