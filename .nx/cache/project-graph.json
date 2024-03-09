@@ -8650,15 +8650,6 @@
         "hash": "16345552013261840446"
       }
     },
-    "npm:hammerjs": {
-      "type": "npm",
-      "name": "npm:hammerjs",
-      "data": {
-        "version": "2.0.8",
-        "packageName": "hammerjs",
-        "hash": "1723016558086771082"
-      }
-    },
     "npm:handle-thing": {
       "type": "npm",
       "name": "npm:handle-thing",
