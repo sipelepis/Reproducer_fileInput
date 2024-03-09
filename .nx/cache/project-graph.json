@@ -205,7 +205,7 @@
       "data": {
         "version": "17.2.4",
         "packageName": "@angular/compiler",
-        "hash": "16632314144037678875"
+        "hash": "sha512-McSsBcoHhMkaQpHM5/wTosAKTzJY5uE6ji3z+ec5GrIJhV7jrVfa67+RUoUzHe+rlD/7oQbX1L/OaHKDP8+/mA=="
       }
     },
     "npm:@angular/compiler-cli": {
@@ -3083,9 +3083,9 @@
       "type": "npm",
       "name": "npm:@ionic/angular",
       "data": {
-        "version": "6.7.5",
+        "version": "7.7.4",
         "packageName": "@ionic/angular",
-        "hash": "7864227403776742218"
+        "hash": "sha512-uj51zQoqEnDSnanv4D6AlVS1MuVjJSTFTbS0sMeSwK8D9Ads+fZ761VnCU/oTEK8hw4BgmxIGBRsOhA/gaYnvw=="
       }
     },
     "npm:@ionic/angular-toolkit": {
@@ -3151,24 +3151,6 @@
         "hash": "15634448535941738583"
       }
     },
-    "npm:ionicons@6.1.3": {
-      "type": "npm",
-      "name": "npm:ionicons@6.1.3",
-      "data": {
-        "version": "6.1.3",
-        "packageName": "ionicons",
-        "hash": "15220656676741088990"
-      }
-    },
-    "npm:ionicons": {
-      "type": "npm",
-      "name": "npm:ionicons",
-      "data": {
-        "version": "7.2.2",
-        "packageName": "ionicons",
-        "hash": "7367548012334861910"
-      }
-    },
     "npm:@ionic/cli-framework-output": {
       "type": "npm",
       "name": "npm:@ionic/cli-framework-output",
@@ -3182,9 +3164,9 @@
       "type": "npm",
       "name": "npm:@ionic/core",
       "data": {
-        "version": "6.7.5",
+        "version": "7.7.4",
         "packageName": "@ionic/core",
-        "hash": "1159162965541470512"
+        "hash": "sha512-zThio3ZfbTu+3eM6QBdyeEk5OBc7M0ApFwSlP/G7rrFVcTPm12FNvG9VPD+aN5NwnYy0EsV3hlMkxbawoqjVLw=="
       }
     },
     "npm:@ionic/pwa-elements": {
@@ -4046,18 +4028,9 @@
       "type": "npm",
       "name": "npm:@stencil/core",
       "data": {
-        "version": "2.22.3",
-        "packageName": "@stencil/core",
-        "hash": "14947538443182666431"
-      }
-    },
-    "npm:@stencil/core@4.12.5": {
-      "type": "npm",
-      "name": "npm:@stencil/core@4.12.5",
-      "data": {
         "version": "4.12.5",
         "packageName": "@stencil/core",
-        "hash": "6686409584448479257"
+        "hash": "sha512-vSyFjY7XSEx0ufa9SebOd437CvnneaTXlCpuGDhjUDxAjGBlu6ie5qHyubobVGBth//aErc6wZPHc6W75Vp3iQ=="
       }
     },
     "npm:@trapezedev/gradle-parse": {
@@ -9080,6 +9053,15 @@
         "version": "1.0.7",
         "packageName": "internal-slot",
         "hash": "4336867818685394616"
+      }
+    },
+    "npm:ionicons": {
+      "type": "npm",
+      "name": "npm:ionicons",
+      "data": {
+        "version": "7.2.2",
+        "packageName": "ionicons",
+        "hash": "7367548012334861910"
       }
     },
     "npm:ip-address": {
@@ -19626,7 +19608,7 @@
       },
       {
         "source": "npm:@ionic/angular",
-        "target": "npm:ionicons@6.1.3",
+        "target": "npm:ionicons",
         "type": "static"
       },
       {
@@ -19740,13 +19722,6 @@
         "type": "static"
       }
     ],
-    "npm:ionicons@6.1.3": [
-      {
-        "source": "npm:ionicons@6.1.3",
-        "target": "npm:@stencil/core",
-        "type": "static"
-      }
-    ],
     "npm:@ionic/cli-framework-output": [
       {
         "source": "npm:@ionic/cli-framework-output",
@@ -19772,7 +19747,7 @@
       },
       {
         "source": "npm:@ionic/core",
-        "target": "npm:ionicons@6.1.3",
+        "target": "npm:ionicons",
         "type": "static"
       },
       {
@@ -25709,7 +25684,7 @@
     "npm:ionicons": [
       {
         "source": "npm:ionicons",
-        "target": "npm:@stencil/core@4.12.5",
+        "target": "npm:@stencil/core",
         "type": "static"
       }
     ],
@@ -25983,7 +25958,7 @@
     "npm:jeep-sqlite": [
       {
         "source": "npm:jeep-sqlite",
-        "target": "npm:@stencil/core@4.12.5",
+        "target": "npm:@stencil/core",
         "type": "static"
       },
       {
