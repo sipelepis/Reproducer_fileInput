@@ -10648,15 +10648,6 @@
         "hash": "9193920625514594623"
       }
     },
-    "npm:ng2-pdfjs-viewer": {
-      "type": "npm",
-      "name": "npm:ng2-pdfjs-viewer",
-      "data": {
-        "version": "17.0.3",
-        "packageName": "ng2-pdfjs-viewer",
-        "hash": "14545046660651391120"
-      }
-    },
     "npm:nice-napi": {
       "type": "npm",
       "name": "npm:nice-napi",
@@ -27156,28 +27147,6 @@
       {
         "source": "npm:pkg-dir@4.2.0",
         "target": "npm:find-up",
-        "type": "static"
-      }
-    ],
-    "npm:ng2-pdfjs-viewer": [
-      {
-        "source": "npm:ng2-pdfjs-viewer",
-        "target": "npm:@angular/common",
-        "type": "static"
-      },
-      {
-        "source": "npm:ng2-pdfjs-viewer",
-        "target": "npm:@angular/core",
-        "type": "static"
-      },
-      {
-        "source": "npm:ng2-pdfjs-viewer",
-        "target": "npm:ng-packagr",
-        "type": "static"
-      },
-      {
-        "source": "npm:ng2-pdfjs-viewer",
-        "target": "npm:tslib",
         "type": "static"
       }
     ],
