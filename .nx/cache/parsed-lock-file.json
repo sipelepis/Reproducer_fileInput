@@ -2268,24 +2268,6 @@
         "hash": "4353897827860128278"
       }
     },
-    "npm:@capacitor-community/privacy-screen": {
-      "type": "npm",
-      "name": "npm:@capacitor-community/privacy-screen",
-      "data": {
-        "version": "4.2.3",
-        "packageName": "@capacitor-community/privacy-screen",
-        "hash": "9506755105809050983"
-      }
-    },
-    "npm:@capacitor-community/sqlite": {
-      "type": "npm",
-      "name": "npm:@capacitor-community/sqlite",
-      "data": {
-        "version": "5.6.2",
-        "packageName": "@capacitor-community/sqlite",
-        "hash": "5291243314009907194"
-      }
-    },
     "npm:@capacitor/android": {
       "type": "npm",
       "name": "npm:@capacitor/android",
@@ -5461,15 +5443,6 @@
         "version": "3.0.2",
         "packageName": "braces",
         "hash": "6652103312273343147"
-      }
-    },
-    "npm:browser-fs-access": {
-      "type": "npm",
-      "name": "npm:browser-fs-access",
-      "data": {
-        "version": "0.33.1",
-        "packageName": "browser-fs-access",
-        "hash": "8358989425271653461"
       }
     },
     "npm:browserslist": {
@@ -8874,15 +8847,6 @@
         "hash": "2332336714746652788"
       }
     },
-    "npm:immediate": {
-      "type": "npm",
-      "name": "npm:immediate",
-      "data": {
-        "version": "3.0.6",
-        "packageName": "immediate",
-        "hash": "10431787287750680372"
-      }
-    },
     "npm:immutable": {
       "type": "npm",
       "name": "npm:immutable",
@@ -9495,15 +9459,6 @@
         "hash": "12848086592611278257"
       }
     },
-    "npm:jeep-sqlite": {
-      "type": "npm",
-      "name": "npm:jeep-sqlite",
-      "data": {
-        "version": "2.6.0",
-        "packageName": "jeep-sqlite",
-        "hash": "14971759865362046179"
-      }
-    },
     "npm:jest-diff": {
       "type": "npm",
       "name": "npm:jest-diff",
@@ -9673,15 +9628,6 @@
         "version": "1.3.5",
         "packageName": "JSONStream",
         "hash": "361819665460142974"
-      }
-    },
-    "npm:jszip": {
-      "type": "npm",
-      "name": "npm:jszip",
-      "data": {
-        "version": "3.10.1",
-        "packageName": "jszip",
-        "hash": "8554334726929271761"
       }
     },
     "npm:karma": {
@@ -9909,24 +9855,6 @@
         "hash": "11709699724358451176"
       }
     },
-    "npm:lie": {
-      "type": "npm",
-      "name": "npm:lie",
-      "data": {
-        "version": "3.3.0",
-        "packageName": "lie",
-        "hash": "11592641888936063905"
-      }
-    },
-    "npm:lie@3.1.1": {
-      "type": "npm",
-      "name": "npm:lie@3.1.1",
-      "data": {
-        "version": "3.1.1",
-        "packageName": "lie",
-        "hash": "11831156104832049233"
-      }
-    },
     "npm:lilconfig": {
       "type": "npm",
       "name": "npm:lilconfig",
@@ -9970,15 +9898,6 @@
         "version": "4.3.0",
         "packageName": "loader-runner",
         "hash": "15864411988818615793"
-      }
-    },
-    "npm:localforage": {
-      "type": "npm",
-      "name": "npm:localforage",
-      "data": {
-        "version": "1.10.0",
-        "packageName": "localforage",
-        "hash": "8361480783858801856"
       }
     },
     "npm:lodash": {
@@ -11097,15 +11016,6 @@
         "hash": "17102560542044702623"
       }
     },
-    "npm:pako": {
-      "type": "npm",
-      "name": "npm:pako",
-      "data": {
-        "version": "1.0.11",
-        "packageName": "pako",
-        "hash": "1684503671373168549"
-      }
-    },
     "npm:parent-module": {
       "type": "npm",
       "name": "npm:parent-module",
@@ -12204,15 +12114,6 @@
         "hash": "7593761397449427348"
       }
     },
-    "npm:setimmediate": {
-      "type": "npm",
-      "name": "npm:setimmediate",
-      "data": {
-        "version": "1.0.5",
-        "packageName": "setimmediate",
-        "hash": "15263138739246037983"
-      }
-    },
     "npm:shallow-clone": {
       "type": "npm",
       "name": "npm:shallow-clone",
@@ -12508,15 +12409,6 @@
         "version": "1.0.1",
         "packageName": "split",
         "hash": "12537714861954155478"
-      }
-    },
-    "npm:sql.js": {
-      "type": "npm",
-      "name": "npm:sql.js",
-      "data": {
-        "version": "1.10.2",
-        "packageName": "sql.js",
-        "hash": "11073540358369993299"
       }
     },
     "npm:ssri": {
@@ -17715,21 +17607,6 @@
     {
       "source": "npm:@capacitor-community/file-opener",
       "target": "npm:@capacitor/core",
-      "type": "static"
-    },
-    {
-      "source": "npm:@capacitor-community/privacy-screen",
-      "target": "npm:@capacitor/core",
-      "type": "static"
-    },
-    {
-      "source": "npm:@capacitor-community/sqlite",
-      "target": "npm:@capacitor/core",
-      "type": "static"
-    },
-    {
-      "source": "npm:@capacitor-community/sqlite",
-      "target": "npm:jeep-sqlite",
       "type": "static"
     },
     {
@@ -25253,31 +25130,6 @@
       "type": "static"
     },
     {
-      "source": "npm:jeep-sqlite",
-      "target": "npm:@stencil/core",
-      "type": "static"
-    },
-    {
-      "source": "npm:jeep-sqlite",
-      "target": "npm:browser-fs-access",
-      "type": "static"
-    },
-    {
-      "source": "npm:jeep-sqlite",
-      "target": "npm:jszip",
-      "type": "static"
-    },
-    {
-      "source": "npm:jeep-sqlite",
-      "target": "npm:localforage",
-      "type": "static"
-    },
-    {
-      "source": "npm:jeep-sqlite",
-      "target": "npm:sql.js",
-      "type": "static"
-    },
-    {
       "source": "npm:jest-diff",
       "target": "npm:chalk@4.1.2",
       "type": "static"
@@ -25365,26 +25217,6 @@
     {
       "source": "npm:JSONStream",
       "target": "npm:through",
-      "type": "static"
-    },
-    {
-      "source": "npm:jszip",
-      "target": "npm:lie",
-      "type": "static"
-    },
-    {
-      "source": "npm:jszip",
-      "target": "npm:pako",
-      "type": "static"
-    },
-    {
-      "source": "npm:jszip",
-      "target": "npm:readable-stream",
-      "type": "static"
-    },
-    {
-      "source": "npm:jszip",
-      "target": "npm:setimmediate",
       "type": "static"
     },
     {
@@ -25768,11 +25600,6 @@
       "type": "static"
     },
     {
-      "source": "npm:lie",
-      "target": "npm:immediate",
-      "type": "static"
-    },
-    {
       "source": "npm:load-json-file",
       "target": "npm:graceful-fs",
       "type": "static"
@@ -25800,16 +25627,6 @@
     {
       "source": "npm:parse-json@4.0.0",
       "target": "npm:json-parse-better-errors",
-      "type": "static"
-    },
-    {
-      "source": "npm:localforage",
-      "target": "npm:lie@3.1.1",
-      "type": "static"
-    },
-    {
-      "source": "npm:lie@3.1.1",
-      "target": "npm:immediate",
       "type": "static"
     },
     {
