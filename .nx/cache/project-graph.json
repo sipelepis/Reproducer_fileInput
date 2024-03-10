@@ -2269,15 +2269,6 @@
         "hash": "4353897827860128278"
       }
     },
-    "npm:@capacitor-community/privacy-screen": {
-      "type": "npm",
-      "name": "npm:@capacitor-community/privacy-screen",
-      "data": {
-        "version": "4.2.3",
-        "packageName": "@capacitor-community/privacy-screen",
-        "hash": "9506755105809050983"
-      }
-    },
     "npm:@capacitor-community/sqlite": {
       "type": "npm",
       "name": "npm:@capacitor-community/sqlite",
@@ -18167,13 +18158,6 @@
     "npm:@capacitor-community/file-opener": [
       {
         "source": "npm:@capacitor-community/file-opener",
-        "target": "npm:@capacitor/core",
-        "type": "static"
-      }
-    ],
-    "npm:@capacitor-community/privacy-screen": [
-      {
-        "source": "npm:@capacitor-community/privacy-screen",
         "target": "npm:@capacitor/core",
         "type": "static"
       }

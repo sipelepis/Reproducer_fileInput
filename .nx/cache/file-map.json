@@ -13,7 +13,6 @@
     "@angular/router": "^17.0.2",
     "@awesome-cordova-plugins/photo-viewer": "^6.6.0",
     "@capacitor-community/file-opener": "^1.0.5",
-    "@capacitor-community/privacy-screen": "^4.2.3",
     "@capacitor-community/sqlite": "^5.6.1",
     "@capacitor/android": "^5.7.1",
     "@capacitor/app": "^5.0.7",
@@ -110,7 +109,7 @@
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "1818362844129342799"
+        "hash": "13336336225089060517"
       },
       {
         "file": "ionic.config.json",
@@ -122,11 +121,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "1116126121756742029"
+        "hash": "1808187171072696646"
       },
       {
         "file": "package.json",
-        "hash": "9876323691925762133"
+        "hash": "13375505908532648914"
       },
       {
         "file": "src/app/app-routing.module.ts",
