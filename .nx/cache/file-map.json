@@ -6,13 +6,10 @@
     "@angular/common": "^17.0.2",
     "@angular/compiler": "^17.2.4",
     "@angular/core": "^17.0.2",
-    "@angular/fire": "^17.0.1",
     "@angular/forms": "^17.0.2",
     "@angular/platform-browser": "^17.0.2",
     "@angular/platform-browser-dynamic": "^17.0.2",
     "@angular/router": "^17.0.2",
-    "@awesome-cordova-plugins/photo-viewer": "^6.6.0",
-    "@capacitor-community/file-opener": "^1.0.5",
     "@capacitor/android": "^5.7.1",
     "@capacitor/app": "^5.0.7",
     "@capacitor/app-launcher": "^5.0.7",
@@ -97,7 +94,7 @@
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "1818362844129342799"
+        "hash": "13336336225089060517"
       },
       {
         "file": "ionic.config.json",
@@ -109,11 +106,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "11388004311813289932"
+        "hash": "1808187171072696646"
       },
       {
         "file": "package.json",
-        "hash": "13508793410683378867"
+        "hash": "13375505908532648914"
       },
       {
         "file": "src/app/app-routing.module.ts",
