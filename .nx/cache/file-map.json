@@ -109,7 +109,7 @@
       },
       {
         "file": "capacitor.config.ts",
-        "hash": "13336336225089060517"
+        "hash": "7559482605359566932"
       },
       {
         "file": "ionic.config.json",
@@ -121,11 +121,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "1808187171072696646"
+        "hash": "4882879629621626205"
       },
       {
         "file": "package.json",
-        "hash": "13375505908532648914"
+        "hash": "8683863568782455080"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -157,7 +157,7 @@
       },
       {
         "file": "src/app/explore-container/explore-container.component.scss",
-        "hash": "14250411118003398491"
+        "hash": "1327219776118156886"
       },
       {
         "file": "src/app/explore-container/explore-container.component.spec.ts",
